@@ -1,0 +1,210 @@
+
+body
+{
+  
+   background-color: #fafafa
+   overflow-y: scroll
+}
+
+.borderMainbox
+{
+  width: 245px;
+  height: 540px;
+  border-style: ridge;
+  border-width: 1px;
+  border-color: #d9d9d9;
+  
+
+}
+img.image1
+{
+  width:77%; 
+  height: auto;
+}
+
+
+img.image2
+{
+  width:11%; 
+  height: auto;
+  position: fixed;
+top: 60px;
+  left: 666px;
+}
+
+
+div.center {
+  position: fixed;
+  top: 40px;
+  left: 200px;
+
+}
+
+.center2 {
+  position: fixed;
+  top: 50px;
+  left: 632px;
+
+}
+
+
+/* function to make divs inline so they are displayed side by side */
+.inline{
+  display:inline-block;
+
+}
+
+.facebook
+{
+
+width: 200px;
+position: fixed;
+top: 170px;
+left: 661px;
+color: white;
+background-color: #0033cc;
+height: auto;
+border-radius: 3px;
+border-style: solid;
+border-width: 1px;
+font-size: 14px;
+font-weight: 600;
+line-height: 26px;
+outline: 0;
+
+}
+
+.signup
+{
+  
+  line-height: 20px;
+font-size: 17px;
+margin: 0 40px 10px;
+position: fixed;
+top: 120px;
+left: 600px;
+  text-align: center;
+color: #999;
+  width:250px;
+  font-weight: 600;
+
+}
+
+.afterSign
+{
+  
+  
+  text-align: center;
+color: #999;
+  width:250px;
+  font-weight: 600;
+line-height: 20px;
+font-size: 13px;
+margin: 0 40px 10px;
+position: fixed;
+top: 210px;
+left: 588px;
+
+}
+
+.form
+{
+  position: relative;
+      top: 165px;
+      right: -27px;
+      font-family:"Segoe UI Semibold";
+      color: #999;
+
+
+
+}
+.formsize
+{
+  width: 196px;
+}
+
+.sign
+{
+  -webkit-appearance: none;
+border-radius: 3px;
+border-style: solid;
+border-width: 1px;
+font-size: 14px;
+font-weight: 600;
+line-height: 26px;
+outline: 0;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+width: 200px;
+position: fixed;
+top:369px;
+left: 661px;
+color: white;
+background-color: #008CBA;
+height: auto;
+
+}
+
+br {
+   line-height: 150%;
+}
+.terms{
+  
+  font-family:"Segoe UI Semibold";
+  text-align: center;
+color: #999;
+  width:170px;
+  font-weight: 600;
+line-height: 20px;
+font-size: 12px;
+margin: 0 40px 10px;
+position: fixed;
+top: 423px;
+left: 633px;
+}
+.terms2{
+  
+  font-family:"Segoe UI Semibold";
+  text-align: center;
+color: #999;
+  width:170px;
+  font-weight: 600;
+line-height: 20px;
+font-size: 12px;
+margin: 0 40px 10px;
+
+}
+.borderMainbox2
+{
+  display:inline-block;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #e6e6e6;;
+  width: 245px;
+  height: 50px;
+  position:fixed;
+  top:600px;
+    left: 632px;
+
+
+}
+img.appM{
+  position: relative;
+  top: 666px;
+right: -580px;
+}
+img.appI{
+  position: relative;
+  top: 590px;
+    right: -760px;
+}
+/* banner for instagram  
+.instaTop{
+  position:fixed;
+  width:100%;
+
+  top: -10px;
+  left: -5px;
+
+}
